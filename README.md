@@ -26,6 +26,7 @@ Clone this repository:
 bash
 Copy
 Edit
+
 git clone https://github.com/yourusername/brain-tumour-segmentation.git
 Navigate into the project directory.
 
