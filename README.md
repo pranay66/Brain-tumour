@@ -20,8 +20,7 @@ Matplotlib (optional, for visualization)
 
 Machine Learning / Thresholding techniques for segmentation
 
-▶️ How to Run
-Clone this repository:
+▶️ How to Clone and Run this repository:
 
 bash
 Copy
